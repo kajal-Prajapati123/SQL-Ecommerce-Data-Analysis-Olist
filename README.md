@@ -1,7 +1,5 @@
 # SQL-Ecommerce-Data-Analysis-Olist
 
-# SQL E-Commerce Data Analysis Project – Olist
-
 This project is part of my Data Analyst Internship task where I performed SQL-based data analysis on a real-world E-commerce dataset (Olist) using MySQL.
 
 ---
